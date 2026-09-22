@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Widget Preview related
+.widget_preview/
+
+.dart_tool/
+.firebase/
+
+*.iml
+
+.flutter-plugins-dependencies
+.idea/

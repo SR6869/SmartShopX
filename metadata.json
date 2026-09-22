@@ -1,0 +1,6 @@
+{
+  "name": "SmartShopX",
+  "description": "ক্ষুদ্র ও মাঝারি ব্যবসার জন্য আধুনিক ক্লাউড পিওএস ও বিজনেস ম্যানেজমেন্ট ওয়েব অ্যাপ্লিকেশন",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
